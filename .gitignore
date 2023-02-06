@@ -12,9 +12,3 @@ web-build/
 
 # macOS
 .DS_Store
-
-# Temporary splash.png
-splash.png
-
-# Assets
-assets/
